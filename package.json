@@ -1,0 +1,21 @@
+{
+  "name": "enimodio",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "author": "GwendolynJast",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrwinDenesik/enimodio.git"
+  },
+  "homepage": "https://github.com/IrwinDenesik/enimodio.git",
+  "version": "1.12.0",
+  "dependencies": {
+    "deseruntcorrupti": "^1.0.0",
+    "itaquesint": "^1.0.0",
+    "molestiaeid": "^1.0.0",
+    "rerumvoluptas": "^1.0.0",
+    "temporaquaerat": "^1.0.0",
+    "vitaerecusandae": "^1.0.0"
+  }
+}
